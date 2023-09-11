@@ -138,3 +138,6 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Cat & Dog Dataset
+intro-to-pytorch/assets/kagglecatsanddogs_5340.zip
