@@ -141,3 +141,6 @@ cython_debug/
 
 # Cat & Dog Dataset
 intro-to-pytorch/assets/kagglecatsanddogs_5340.zip
+
+# CIFAR-10 Dataset
+convolutional-neural-networks/cifar-cnn/data/cifar-10-python.tar.gz
